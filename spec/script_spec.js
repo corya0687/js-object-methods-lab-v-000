@@ -39,6 +39,8 @@ describe('#onductPressInterview', function() {
   });
 });
 
+
+
 describe('#sayHi', function() {
   it('returns "Hi, my name is <name>. I am from <homestate>. I represent the <politicalParty>s and was in office 1963-1969."', function() {
     var lyndonJohnson = new President("Lyndon B Johnson", "Democrat", "1963-1969", "Texas");
